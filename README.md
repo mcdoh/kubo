@@ -8,4 +8,4 @@ To use:
 
 `npm install`
 
-`node kubo.js -v <video ID> -s <segment> -c <count>`
+`node kubo.js -v <video ID> -s <segment> -c <count> -t <happy|sad|surprised|angry>`
